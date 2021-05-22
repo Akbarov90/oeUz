@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 May 2021 21:34:38 at https://oe.uz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://oe.uz/ -O1 "D:\oe.uz" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:35:09	Error: 	"Not Found" (404) at link https://oe.uz/GET (from https://oe.uz/)
+21:40:21	Warning: 	File not parsed, looks like binary: https://oe.uz/local/templates/oe/media/fonts/fontawesome/webfonts/fa-brands-400.woff2
+21:40:21	Warning: 	File not parsed, looks like binary: https://oe.uz/local/templates/oe/media/fonts/fontawesome/webfonts/fa-regular-400.woff2
+21:40:21	Warning: 	File not parsed, looks like binary: https://oe.uz/local/templates/oe/media/fonts/fontawesome/webfonts/fa-solid-900.woff2
+21:40:22	Error: 	"Not Found" (404) at link https://oe.uz/local/templates/oe/media/images/amo-crm/video_img.jpg (from https://oe.uz/bitrix/cache/css/s1/oe/template_4a05989362a843aa712d5db428617b6c/template_4a05989362a843aa712d5db428617b6c_v1.css?1620124103248323)
+21:40:50	Error: 	"Not Found" (404) at link https://oe.uz/about/GET (from https://oe.uz/about/)
+21:42:34	Error: 	"Not Found" (404) at link https://oe.uz/contacts/GET (from https://oe.uz/contacts/)
+21:42:34	Error: 	"Not Found" (404) at link https://oe.uz/razrabotka-saytov/GET (from https://oe.uz/razrabotka-saytov/)
+21:42:35	Error: 	"Not Found" (404) at link https://oe.uz/razrabotka-saytov/images/icons/arrow/left_blue.svg (from https://oe.uz/razrabotka-saytov/)
+21:42:35	Error: 	"Not Found" (404) at link https://oe.uz/razrabotka-saytov/images/icons/arrow/right_blue.svg (from https://oe.uz/razrabotka-saytov/)
+21:42:35	Error: 	"Not Found" (404) at link https://oe.uz/razrabotka-internet-magazina/GET (from https://oe.uz/razrabotka-internet-magazina/)
+21:42:37	Error: 	"Not Found" (404) at link https://oe.uz/seo-prodvizhenie/GET (from https://oe.uz/seo-prodvizhenie/)
+21:42:37	Error: 	"Not Found" (404) at link https://oe.uz/seo-prodvizhenie/images/cer4.jpeg (from https://oe.uz/seo-prodvizhenie/)
+21:42:37	Error: 	"Not Found" (404) at link https://oe.uz/kontekstnaya-reklamma/GET (from https://oe.uz/kontekstnaya-reklamma/)
+21:42:37	Error: 	"Not Found" (404) at link https://oe.uz/prodvizhenie-v-sotsialnykh-setyakh/GET (from https://oe.uz/prodvizhenie-v-sotsialnykh-setyakh/)
+21:42:38	Error: 	"Not Found" (404) at link https://oe.uz/razrabotka-brendbukov/GET (from https://oe.uz/razrabotka-brendbukov/)
+21:42:39	Error: 	"Not Found" (404) at link https://oe.uz/razrabotka-botov-facebook-telegram/GET (from https://oe.uz/razrabotka-botov-facebook-telegram/)
+21:42:39	Error: 	"Not Found" (404) at link https://oe.uz/foto-moto/GET (from https://oe.uz/foto-moto/)
+21:42:40	Error: 	"Not Found" (404) at link https://oe.uz/razrabotka-mob-prilozheniy/GET (from https://oe.uz/razrabotka-mob-prilozheniy/)
+21:42:40	Error: 	"Not Found" (404) at link https://oe.uz/amocrm/GET (from https://oe.uz/amocrm/)
+21:42:40	Error: 	"Not Found" (404) at link https://oe.uz/bitrix24/GET (from https://oe.uz/bitrix24/)
+21:42:40	Error: 	"Not Found" (404) at link https://oe.uz/moysklad/GET (from https://oe.uz/moysklad/)
+21:42:40	Error: 	"Not Found" (404) at link https://oe.uz/moysklad/0 (from https://oe.uz/moysklad/)
+21:42:40	Error: 	"Not Found" (404) at link https://oe.uz/moysklad/1 (from https://oe.uz/moysklad/)
+21:42:40	Error: 	"Not Found" (404) at link https://oe.uz/moysklad/2 (from https://oe.uz/moysklad/)
+21:42:40	Error: 	"Not Found" (404) at link https://oe.uz/moysklad/3 (from https://oe.uz/moysklad/)
+21:42:41	Error: 	"Not Found" (404) at link https://oe.uz/moysklad/images/my-warehouse/certificate.png (from https://oe.uz/moysklad/)
+21:42:50	Error: 	"Not Found" (404) at link https://oe.uz/kompleksnyy-internet-marketing/GET (from https://oe.uz/kompleksnyy-internet-marketing/)
+21:42:50	Error: 	"Not Found" (404) at link https://oe.uz/pixel/html/tracker_iframe.html (from https://piper.amocrm.ru/pixel/js/tracker/pixel.js?token=)
+21:42:50	Error: 	"Not Found" (404) at link https://oe.uz/pixel/html/identifier_iframe.html (from https://piper.amocrm.ru/pixel/js/identifier/pixel_identifier.js)
+21:42:50	Error: 	"Not Found" (404) at link https://oe.uz/c (from https://connect.facebook.net/en_US/fbevents.js)
+21:42:50	Error: 	"Not Found" (404) at link https://oe.uz/b (from https://connect.facebook.net/en_US/fbevents.js)
+21:42:50	Error: 	"Not Found" (404) at link https://oe.uz/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 42 seconds : 1341 links scanned, 1310 files written (165626427 bytes overall) [151947744 bytes received at 261078 bytes/sec], 20264413 bytes transferred using HTTP compression in 465 files, ratio 25%, 36.2 requests per connection
+(30 errors, 3 warnings, 0 messages)
